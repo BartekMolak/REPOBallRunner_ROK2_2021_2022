@@ -1,0 +1,1708 @@
+﻿Log file open, 04/28/22 12:42:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Ball_Runner
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.368532
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.412s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2022.04.28-10.42.43:128][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.28-10.42.43:128][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.04.28-10.42.43:159][  0]LogHAL: Display: Platform has ~ 20 GB [21343473664 / 34359738368 / 20], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.28-10.42.43:159][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2022.04.28-10.42.43:159][  0]LogInit: Going up to parent DeviceProfile []
+[2022.04.28-10.42.43:174][  0]LogInit: Computer: DESKTOP-C1TF8DB
+[2022.04.28-10.42.43:174][  0]LogInit: User: Admin
+[2022.04.28-10.42.43:174][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.04.28-10.42.43:174][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.28-10.42.43:174][  0]LogMemory: Memory total: Physical=19.9GB (20GB approx)
+[2022.04.28-10.42.43:175][  0]LogMemory: Platform Memory Stats for Windows
+[2022.04.28-10.42.43:175][  0]LogMemory: Process Physical Memory: 101.36 MB used, 101.36 MB peak
+[2022.04.28-10.42.43:175][  0]LogMemory: Process Virtual Memory: 90.99 MB used, 90.99 MB peak
+[2022.04.28-10.42.43:175][  0]LogMemory: Physical Memory: 9134.32 MB used,  11220.41 MB free, 20354.72 MB total
+[2022.04.28-10.42.43:175][  0]LogMemory: Virtual Memory: 4629.13 MB used,  11220.41 MB free, 134217728.00 MB total
+[2022.04.28-10.42.43:210][  0]LogInit: Using OS detected language (pl-PL).
+[2022.04.28-10.42.43:210][  0]LogInit: Using OS detected locale (pl-PL).
+[2022.04.28-10.42.43:212][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2022.04.28-10.42.43:216][  0]LogStreaming: Display: Took  0.006s to InitEngineTextLocalization.
+[2022.04.28-10.42.43:216][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.28-10.42.43:324][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.28-10.42.43:324][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.28-10.42.43:847][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.28-10.42.43:847][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.28-10.42.43:950][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX150' (Feature Level 11_0)
+[2022.04.28-10.42.43:950][  0]LogD3D11RHI:       1983/0/10177 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.04.28-10.42.43:970][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2022.04.28-10.42.43:970][  0]LogD3D11RHI:       128/0/10177 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.04.28-10.42.43:972][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.04.28-10.42.43:972][  0]LogD3D11RHI:       0/0/10177 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.28-10.42.43:972][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.04.28-10.42.43:988][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.28-10.42.43:988][  0]LogD3D11RHI:     GPU DeviceId: 0x1d10 (for the marketing name, search the web for "GPU Device Id")
+[2022.04.28-10.42.43:988][  0]LogWindows: EnumDisplayDevices:
+[2022.04.28-10.42.43:988][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2022.04.28-10.42.43:989][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:1)
+[2022.04.28-10.42.43:989][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2022.04.28-10.42.43:989][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.04.28-10.42.43:989][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX150
+[2022.04.28-10.42.43:989][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.04.28-10.42.43:990][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.04.28-10.42.43:990][  0]LogRHI: Texture pool is 1388 MB (70% of 1983 MB)
+[2022.04.28-10.42.44:057][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.28-10.42.44:075][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.04.28-10.42.44:076][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Intermediate/Shaders/WorkingDirectory/105296/).
+[2022.04.28-10.42.44:076][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Admin/AppData/Local/Temp/UnrealShaderWorkingDir/45954941465FE2E657E46995336F917A/'.
+[2022.04.28-10.42.44:410][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2022.04.28-10.42.44:426][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2022.04.28-10.42.44:442][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2022.04.28-10.42.44:457][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2022.04.28-10.42.44:472][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2022.04.28-10.42.44:488][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2022.04.28-10.42.44:504][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2022.04.28-10.42.44:518][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2022.04.28-10.42.44:526][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2022.04.28-10.42.44:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.04.28-10.42.44:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.04.28-10.42.44:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.04.28-10.42.44:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.04.28-10.42.44:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.04.28-10.42.44:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.04.28-10.42.44:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.04.28-10.42.44:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.04.28-10.42.44:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.04.28-10.42.44:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.04.28-10.42.44:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.04.28-10.42.44:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.04.28-10.42.44:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.04.28-10.42.44:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.04.28-10.42.44:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.04.28-10.42.44:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.04.28-10.42.44:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.04.28-10.42.44:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.04.28-10.42.44:621][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2022.04.28-10.42.44:683][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.04.28-10.42.44:683][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.04.28-10.42.44:706][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.04.28-10.42.44:706][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.04.28-10.42.44:719][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2022.04.28-10.42.44:732][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2022.04.28-10.42.44:744][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2022.04.28-10.42.44:758][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2022.04.28-10.42.44:767][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2022.04.28-10.42.44:767][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.04.28-10.42.44:834][  0]LogXGEController: Cleaning working directory: C:/Users/Admin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.04.28-10.42.44:834][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.04.28-10.42.44:834][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.04.28-10.42.44:834][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.04.28-10.42.46:665][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.04.28-10.42.46:769][  0]LogDerivedDataCache: Loaded boot cache 0.10s 71MB C:/Users/Admin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2022.04.28-10.42.46:770][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Admin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2022.04.28-10.42.46:770][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.28-10.42.46:770][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.04.28-10.42.46:771][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.28-10.42.46:771][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.04.28-10.42.46:802][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.04.28-10.42.46:815][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.28-10.42.46:815][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.28-10.42.46:815][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.04.28-10.42.46:856][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.04.28-10.42.46:859][  0]LogSlate: Using FreeType 2.6.0
+[2022.04.28-10.42.46:861][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.28-10.42.46:994][  0]LogAssetRegistry: FAssetRegistry took 0.0314 seconds to start up
+[2022.04.28-10.42.47:721][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.28-10.42.48:003][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2022.04.28-10.42.48:010][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2022.04.28-10.42.48:011][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.28-10.42.48:011][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.28-10.42.48:011][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2022.04.28-10.42.48:043][  0]LogNetVersion: Ball_Runner 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3278852627)
+[2022.04.28-10.42.48:773][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.156299 seconds
+[2022.04.28-10.42.48:779][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2022.04.28-10.42.48:780][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2022.04.28-10.42.48:780][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.28-10.42.49:641][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.28-10.42.49:655][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.28-10.42.49:817][  0]SourceControl: Source control is disabled
+[2022.04.28-10.42.49:817][  0]SourceControl: Source control is disabled
+[2022.04.28-10.42.49:818][  0]SourceControl: Source control is disabled
+[2022.04.28-10.42.49:819][  0]SourceControl: Source control is disabled
+[2022.04.28-10.42.49:998][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.28-10.42.50:092][  0]LogOcInput: OculusInput pre-init called
+[2022.04.28-10.42.50:155][  0]LogEngine: Initializing Engine...
+[2022.04.28-10.42.50:156][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.28-10.42.50:157][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2022.04.28-10.42.50:157][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.04.28-10.42.50:157][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2022.04.28-10.42.50:157][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.04.28-10.42.50:372][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.28-10.42.50:387][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.28-10.42.50:412][  0]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-10.42.50:543][  0]LogInit: FAudioDevice initialized.
+[2022.04.28-10.42.50:543][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.28-10.42.50:637][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Admin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2022.04.28-10.42.50:651][  0]LogInit: Texture streaming: Enabled
+[2022.04.28-10.42.50:686][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.28-10.42.50:725][  0]LogInit: Transaction tracking system initialized
+[2022.04.28-10.42.50:776][  0]BlueprintLog: New page: Editor Load
+[2022.04.28-10.42.50:934][  0]LocalizationService: Localization service is disabled
+[2022.04.28-10.42.51:437][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.04.28-10.42.51:437][  0]LogCook: Display: Mobile HDR setting 1
+[2022.04.28-10.42.51:437][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2022.04.28-10.42.51:437][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2022.04.28-10.42.51:437][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.04.28-10.42.51:438][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2022.04.28-10.42.51:438][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.04.28-10.42.51:672][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/' took 0.02s
+[2022.04.28-10.42.51:672][  0]SourceControl: Source control is disabled
+[2022.04.28-10.42.51:672][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.28-10.42.51:674][  0]LightingResults: New page: Lighting Build
+[2022.04.28-10.42.51:679][  0]MapCheck: New page: Map Check
+[2022.04.28-10.42.51:680][  0]LightingResults: New page: Lighting Build
+[2022.04.28-10.42.52:242][  0]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.42.52:267][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.28-10.42.52:316][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.28-10.42.52:503][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 187,113ms to complete.
+[2022.04.28-10.42.52:503][  0]LogFileHelpers: Loading map 'MainLevel' took 0.830
+[2022.04.28-10.42.52:721][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.42.52:737][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.42.52:753][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.42.52:769][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.42.52:784][  0]LogCollectionManager: Loaded 0 collections in 0.004197 seconds
+[2022.04.28-10.42.52:840][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/Collections/' took 0.01s
+[2022.04.28-10.42.52:840][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Developers/Admin/Collections/' took 0.01s
+[2022.04.28-10.42.52:841][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Collections/' took 0.01s
+[2022.04.28-10.42.52:841][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2022.04.28-10.42.52:859][  0]LogContentBrowser: Native class hierarchy populated in 0.0181 seconds. Added 2572 classes and 603 folders.
+[2022.04.28-10.42.52:873][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.04.28-10.42.52:992][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.04.28-10.42.53:002][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2022.04.28-10.42.53:154][  0]LogSlate: Took 0.000391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.28-10.42.53:160][  0]LogSlate: Took 0.000366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.28-10.42.53:170][  0]LogSlate: Took 0.000646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.28-10.42.53:344][  0]LogRenderer: Reallocating scene render targets to support 924x440 Format 10 NumSamples 1 (Frame:1).
+[2022.04.28-10.42.53:617][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.04.28-10.42.53:617][  0]LogLoad: (Engine Initialization) Total time: 14.40 seconds
+[2022.04.28-10.42.53:617][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.28-10.42.53:668][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.28-10.42.53:703][  0]LogSlate: Took 0.000338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.28-10.42.53:969][  2]LogAssetRegistry: Asset discovery search completed in 6.9973 seconds
+[2022.04.28-10.42.53:972][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2022.04.28-10.42.53:972][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000117 seconds (updated 0 objects)
+[2022.04.28-10.43.41:946][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.43.42:139][835]LogSlate: Took 0.000396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.28-10.43.42:173][835]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Restart.BP_Restart
+[2022.04.28-10.43.43:333][835]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2022.04.28-10.43.44:909][835]LogSlate: Took 0.000425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.28-10.45.30:926][797]LogSlate: Took 0.000412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.28-10.48.30:234][805]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-10.48.30:953][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-10.48.30:995][823]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_Restart1AD6C1BC4AB4AC2111970BB45A60DF88.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-10.48.32:787][918]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-10.48.32:818][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-10.48.32:832][918]PIE: New page: PIE session: MainLevel (28 kwi 2022, 14:48:32)
+[2022.04.28-10.48.32:832][918]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.48.32:851][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018924s)
+[2022.04.28-10.48.32:852][918]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.48.32:852][918]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2022.04.28-10.48.32:852][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020524s)
+[2022.04.28-10.48.32:914][918]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-10.48.32:949][918]LogInit: FAudioDevice initialized.
+[2022.04.28-10.48.32:999][918]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.48.33:009][918]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.48.33
+[2022.04.28-10.48.33:009][918]LogWorld: Bringing up level for play took: 0.005074
+[2022.04.28-10.48.33:042][918]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2022.04.28-10.48.33:044][918]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,212
+[2022.04.28-10.48.37:641][190]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-10.48.37:641][190]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-10.48.37:699][190]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.48.37:718][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018578s)
+[2022.04.28-10.48.37:719][190]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.48.37:719][190]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2022.04.28-10.48.37:719][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020020s)
+[2022.04.28-10.48.37:719][190]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.48.37:724][190]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.48.37
+[2022.04.28-10.48.37:724][190]LogWorld: Bringing up level for play took: 0.003171
+[2022.04.28-10.48.37:726][190]LogLoad: Took 0.084786 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-10.48.45:204][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.48.45:250][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-10.48.45:319][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.48.45:357][639]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.04.28-10.48.48:407][782]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-10.49.21:239][627]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-10.49.21:901][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-10.49.21:942][639]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_RestartBBBA97AE407A8E783E5D98AC90A0B6CF.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-10.49.23:525][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.49.24:316][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.49.24:399][772]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-10.49.24:434][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-10.49.24:434][772]PIE: New page: PIE session: MainLevel (28 kwi 2022, 14:49:24)
+[2022.04.28-10.49.24:435][772]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.49.24:454][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019530s)
+[2022.04.28-10.49.24:455][772]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.49.24:455][772]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2022.04.28-10.49.24:456][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.021004s)
+[2022.04.28-10.49.24:515][772]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-10.49.24:548][772]LogInit: FAudioDevice initialized.
+[2022.04.28-10.49.24:586][772]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.49.24:591][772]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.49.24
+[2022.04.28-10.49.24:591][772]LogWorld: Bringing up level for play took: 0.003342
+[2022.04.28-10.49.24:607][772]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,224
+[2022.04.28-10.49.29:139][ 42]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-10.49.29:139][ 42]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-10.49.29:197][ 42]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.49.29:216][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018842s)
+[2022.04.28-10.49.29:217][ 42]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.49.29:218][ 42]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2022.04.28-10.49.29:218][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020338s)
+[2022.04.28-10.49.29:218][ 42]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.49.29:222][ 42]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.49.29
+[2022.04.28-10.49.29:222][ 42]LogWorld: Bringing up level for play took: 0.003108
+[2022.04.28-10.49.29:225][ 42]LogLoad: Took 0.085478 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-10.49.30:831][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.49.30:879][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-10.49.30:935][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.49.30:975][139]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.04.28-10.49.41:828][246]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-10.50.04:600][509]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-10.50.05:195][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-10.50.05:245][522]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_RestartD53D65284D2F881364A80A8265F94EF1.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-10.50.07:027][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.50.07:692][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.50.07:775][651]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-10.50.07:808][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-10.50.07:808][651]PIE: New page: PIE session: MainLevel (28 kwi 2022, 14:50:07)
+[2022.04.28-10.50.07:808][651]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.50.07:827][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018974s)
+[2022.04.28-10.50.07:828][651]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.50.07:829][651]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2022.04.28-10.50.07:829][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020408s)
+[2022.04.28-10.50.07:891][651]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-10.50.07:923][651]LogInit: FAudioDevice initialized.
+[2022.04.28-10.50.07:958][651]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.50.07:963][651]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.50.07
+[2022.04.28-10.50.07:963][651]LogWorld: Bringing up level for play took: 0.003243
+[2022.04.28-10.50.07:978][651]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 1,148
+[2022.04.28-10.50.12:098][896]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-10.50.12:099][896]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-10.50.12:154][896]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.50.12:172][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018494s)
+[2022.04.28-10.50.12:173][896]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.50.12:173][896]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2022.04.28-10.50.12:173][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.019937s)
+[2022.04.28-10.50.12:173][896]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.50.12:178][896]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.50.12
+[2022.04.28-10.50.12:178][896]LogWorld: Bringing up level for play took: 0.003212
+[2022.04.28-10.50.12:180][896]LogLoad: Took 0.082161 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-10.50.14:891][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.50.14:938][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-10.50.15:010][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.50.15:050][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.04.28-10.50.16:407][101]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-10.50.34:177][ 66]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-10.50.37:944][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-10.50.37:987][244]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_Restart071BFC05487B760C75F01988826EB028.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-10.50.38:429][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.50.38:532][271]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-10.50.38:564][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-10.50.38:564][271]PIE: New page: PIE session: MainLevel (28 kwi 2022, 14:50:38)
+[2022.04.28-10.50.38:564][271]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.50.38:584][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019605s)
+[2022.04.28-10.50.38:585][271]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.50.38:586][271]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2022.04.28-10.50.38:586][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.021143s)
+[2022.04.28-10.50.38:659][271]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-10.50.38:692][271]LogInit: FAudioDevice initialized.
+[2022.04.28-10.50.38:730][271]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.50.38:737][271]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.50.38
+[2022.04.28-10.50.38:737][271]LogWorld: Bringing up level for play took: 0.004528
+[2022.04.28-10.50.38:752][271]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,079
+[2022.04.28-10.50.44:151][583]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-10.50.44:152][583]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-10.50.44:206][583]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.50.44:226][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020161s)
+[2022.04.28-10.50.44:227][583]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.50.44:228][583]LogPlayLevel: PIE: World Init took: (0.001160s)
+[2022.04.28-10.50.44:228][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.021633s)
+[2022.04.28-10.50.44:228][583]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.50.44:232][583]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.50.44
+[2022.04.28-10.50.44:233][583]LogWorld: Bringing up level for play took: 0.003194
+[2022.04.28-10.50.44:235][583]LogLoad: Took 0.083184 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-10.50.45:474][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.50.45:526][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-10.50.45:595][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.50.45:639][658]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.04.28-10.50.47:674][746]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-10.51.18:420][423]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-10.51.18:985][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-10.51.19:024][434]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_Restart8C4FB17B4A9360B2530872B51503D35A.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-10.51.20:429][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.51.21:117][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.51.21:200][544]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-10.51.21:233][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-10.51.21:233][544]PIE: New page: PIE session: MainLevel (28 kwi 2022, 14:51:21)
+[2022.04.28-10.51.21:233][544]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.51.21:251][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018797s)
+[2022.04.28-10.51.21:252][544]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.51.21:253][544]LogPlayLevel: PIE: World Init took: (0.001160s)
+[2022.04.28-10.51.21:253][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020210s)
+[2022.04.28-10.51.21:320][544]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-10.51.21:352][544]LogInit: FAudioDevice initialized.
+[2022.04.28-10.51.21:391][544]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.51.21:396][544]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.51.21
+[2022.04.28-10.51.21:397][544]LogWorld: Bringing up level for play took: 0.003401
+[2022.04.28-10.51.21:411][544]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,58
+[2022.04.28-10.51.25:291][775]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-10.51.25:291][775]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-10.51.25:340][775]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.51.25:360][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019174s)
+[2022.04.28-10.51.25:361][775]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.51.25:361][775]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2022.04.28-10.51.25:361][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020713s)
+[2022.04.28-10.51.25:361][775]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.51.25:365][775]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.51.25
+[2022.04.28-10.51.25:366][775]LogWorld: Bringing up level for play took: 0.003225
+[2022.04.28-10.51.25:368][775]LogLoad: Took 0.077852 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-10.51.27:597][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.51.27:645][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-10.51.27:707][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.51.27:748][909]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.04.28-10.51.29:515][980]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-10.51.41:470][656]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-10.51.42:086][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-10.51.42:131][670]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_Restart4EB8C6D643CABB3528121697E3D5A22C.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-10.51.43:304][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.51.44:239][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.51.44:323][786]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-10.51.44:367][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-10.51.44:367][786]PIE: New page: PIE session: MainLevel (28 kwi 2022, 14:51:44)
+[2022.04.28-10.51.44:367][786]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.51.44:386][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018696s)
+[2022.04.28-10.51.44:387][786]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.51.44:388][786]LogPlayLevel: PIE: World Init took: (0.001135s)
+[2022.04.28-10.51.44:388][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020093s)
+[2022.04.28-10.51.44:456][786]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-10.51.44:488][786]LogInit: FAudioDevice initialized.
+[2022.04.28-10.51.44:527][786]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.51.44:532][786]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.51.44
+[2022.04.28-10.51.44:532][786]LogWorld: Bringing up level for play took: 0.003271
+[2022.04.28-10.51.44:547][786]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,284
+[2022.04.28-10.51.48:140][  0]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-10.51.48:141][  0]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-10.51.48:187][  0]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.51.48:206][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018721s)
+[2022.04.28-10.51.48:207][  0]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.51.48:207][  0]LogPlayLevel: PIE: World Init took: (0.001112s)
+[2022.04.28-10.51.48:207][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020139s)
+[2022.04.28-10.51.48:207][  0]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.51.48:212][  0]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.51.48
+[2022.04.28-10.51.48:213][  0]LogWorld: Bringing up level for play took: 0.003858
+[2022.04.28-10.51.48:216][  0]LogLoad: Took 0.074922 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-10.51.49:292][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.51.49:339][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-10.51.49:398][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.51.49:437][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.04.28-10.51.51:053][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-10.54.00:300][225]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-10.54.01:407][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-10.54.01:459][260]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_Restart544089D646870B92F6941698A630BB14.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-10.54.03:002][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.54.03:700][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.54.03:799][381]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-10.54.03:833][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-10.54.03:833][381]PIE: New page: PIE session: MainLevel (28 kwi 2022, 14:54:03)
+[2022.04.28-10.54.03:833][381]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.54.03:853][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019102s)
+[2022.04.28-10.54.03:854][381]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.54.03:854][381]LogPlayLevel: PIE: World Init took: (0.001278s)
+[2022.04.28-10.54.03:854][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020625s)
+[2022.04.28-10.54.03:920][381]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-10.54.03:956][381]LogInit: FAudioDevice initialized.
+[2022.04.28-10.54.03:990][381]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.54.03:994][381]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.54.03
+[2022.04.28-10.54.03:995][381]LogWorld: Bringing up level for play took: 0.003536
+[2022.04.28-10.54.04:011][381]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 1,18
+[2022.04.28-10.54.08:091][624]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-10.54.08:093][624]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-10.54.08:148][624]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.54.08:167][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018710s)
+[2022.04.28-10.54.08:168][624]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.54.08:168][624]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2022.04.28-10.54.08:168][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020126s)
+[2022.04.28-10.54.08:168][624]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.54.08:173][624]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.54.08
+[2022.04.28-10.54.08:173][624]LogWorld: Bringing up level for play took: 0.003896
+[2022.04.28-10.54.08:176][624]LogLoad: Took 0.083356 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-10.54.09:468][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.54.09:514][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-10.54.09:566][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.54.09:604][702]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.04.28-10.54.11:472][775]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-10.54.43:023][381]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/MainLevel_Auto157EEB5E040A0BBD021636F8D43AEE732.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/Autosaves/Game/Levels/MainLevel_Auto1.umap'
+[2022.04.28-10.54.43:029][381]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.278
+[2022.04.28-10.54.43:029][381]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.278
+[2022.04.28-10.54.43:980][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.55.00:042][289]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-10.55.01:648][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-10.55.01:691][346]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_Restart1E74B4FD4FF751448E5EB38F61863AE2.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-10.55.02:423][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.55.03:030][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.55.03:128][424]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-10.55.03:160][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-10.55.03:160][424]PIE: New page: PIE session: MainLevel (28 kwi 2022, 14:55:03)
+[2022.04.28-10.55.03:160][424]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.55.03:179][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018778s)
+[2022.04.28-10.55.03:180][424]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.55.03:181][424]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2022.04.28-10.55.03:181][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020263s)
+[2022.04.28-10.55.03:242][424]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-10.55.03:289][424]LogInit: FAudioDevice initialized.
+[2022.04.28-10.55.03:332][424]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.55.03:339][424]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.55.03
+[2022.04.28-10.55.03:339][424]LogWorld: Bringing up level for play took: 0.004858
+[2022.04.28-10.55.03:355][424]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,524
+[2022.04.28-10.55.07:442][667]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-10.55.07:442][667]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-10.55.07:488][667]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.55.07:506][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018655s)
+[2022.04.28-10.55.07:507][667]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.55.07:508][667]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2022.04.28-10.55.07:508][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020132s)
+[2022.04.28-10.55.07:508][667]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.55.07:512][667]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.55.07
+[2022.04.28-10.55.07:513][667]LogWorld: Bringing up level for play took: 0.003394
+[2022.04.28-10.55.07:515][667]LogLoad: Took 0.072777 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-10.55.08:706][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.55.08:757][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-10.55.08:846][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.55.08:897][739]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.04.28-10.55.10:361][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-10.55.47:930][846]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-10.55.48:549][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-10.55.48:591][859]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_Restart6E48F2EF4EA212A002E86B90C770F1AD.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-10.55.49:979][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.55.50:625][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.55.50:709][966]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-10.55.50:747][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-10.55.50:747][966]PIE: New page: PIE session: MainLevel (28 kwi 2022, 14:55:50)
+[2022.04.28-10.55.50:747][966]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.55.50:771][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024572s)
+[2022.04.28-10.55.50:772][966]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.55.50:772][966]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2022.04.28-10.55.50:772][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.026194s)
+[2022.04.28-10.55.50:845][966]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-10.55.50:881][966]LogInit: FAudioDevice initialized.
+[2022.04.28-10.55.50:924][966]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.55.50:929][966]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.55.50
+[2022.04.28-10.55.50:929][966]LogWorld: Bringing up level for play took: 0.003759
+[2022.04.28-10.55.50:945][966]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,113
+[2022.04.28-10.55.54:688][189]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-10.55.54:688][189]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-10.55.54:736][189]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.55.54:755][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018781s)
+[2022.04.28-10.55.54:756][189]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.55.54:757][189]LogPlayLevel: PIE: World Init took: (0.001154s)
+[2022.04.28-10.55.54:757][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020269s)
+[2022.04.28-10.55.54:757][189]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.55.54:761][189]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.55.54
+[2022.04.28-10.55.54:762][189]LogWorld: Bringing up level for play took: 0.003275
+[2022.04.28-10.55.54:765][189]LogLoad: Took 0.076480 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-10.56.01:933][616]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-10.56.01:933][616]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-10.56.01:989][616]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.56.02:009][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019667s)
+[2022.04.28-10.56.02:010][616]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.56.02:010][616]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2022.04.28-10.56.02:010][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.021123s)
+[2022.04.28-10.56.02:010][616]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.56.02:014][616]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.56.02
+[2022.04.28-10.56.02:015][616]LogWorld: Bringing up level for play took: 0.003189
+[2022.04.28-10.56.02:017][616]LogLoad: Took 0.084118 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-10.56.03:596][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.56.03:643][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-10.56.03:718][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.56.03:756][711]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.04.28-10.56.05:012][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-10.57.01:019][910]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-10.57.01:535][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-10.57.01:575][917]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_RestartBC55B5FC45F7106291E9D3B4EF6A10B0.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-10.57.03:071][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.57.03:652][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.57.03:735][ 27]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-10.57.03:767][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-10.57.03:767][ 27]PIE: New page: PIE session: MainLevel (28 kwi 2022, 14:57:03)
+[2022.04.28-10.57.03:768][ 27]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.57.03:788][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020199s)
+[2022.04.28-10.57.03:789][ 27]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.57.03:789][ 27]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2022.04.28-10.57.03:789][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.021653s)
+[2022.04.28-10.57.03:853][ 27]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-10.57.03:887][ 27]LogInit: FAudioDevice initialized.
+[2022.04.28-10.57.03:924][ 27]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.57.03:928][ 27]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.57.03
+[2022.04.28-10.57.03:929][ 27]LogWorld: Bringing up level for play took: 0.003408
+[2022.04.28-10.57.03:944][ 27]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 1,113
+[2022.04.28-10.57.07:659][248]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-10.57.07:660][248]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-10.57.07:726][248]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.57.07:745][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018302s)
+[2022.04.28-10.57.07:746][248]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.57.07:746][248]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2022.04.28-10.57.07:746][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.019741s)
+[2022.04.28-10.57.07:746][248]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.57.07:749][248]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.57.07
+[2022.04.28-10.57.07:750][248]LogWorld: Bringing up level for play took: 0.003243
+[2022.04.28-10.57.07:752][248]LogLoad: Took 0.092818 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-10.57.09:244][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.57.09:290][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-10.57.09:339][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.57.09:376][338]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.04.28-10.57.11:029][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-10.58.28:814][689]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-10.58.29:438][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-10.58.29:481][703]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_RestartD2D6EA004D83CB3847596FA6A3F9A03A.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-10.58.30:676][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.58.31:957][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.58.32:057][834]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-10.58.32:090][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-10.58.32:090][834]PIE: New page: PIE session: MainLevel (28 kwi 2022, 14:58:32)
+[2022.04.28-10.58.32:091][834]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.58.32:118][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027071s)
+[2022.04.28-10.58.32:119][834]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.58.32:119][834]LogPlayLevel: PIE: World Init took: (0.001288s)
+[2022.04.28-10.58.32:119][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.028620s)
+[2022.04.28-10.58.32:186][834]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-10.58.32:220][834]LogInit: FAudioDevice initialized.
+[2022.04.28-10.58.32:262][834]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.58.32:268][834]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.58.32
+[2022.04.28-10.58.32:268][834]LogWorld: Bringing up level for play took: 0.003779
+[2022.04.28-10.58.32:283][834]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,548
+[2022.04.28-10.58.36:079][ 60]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-10.58.36:080][ 60]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-10.58.36:138][ 60]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.58.36:157][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019128s)
+[2022.04.28-10.58.36:158][ 60]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.58.36:158][ 60]LogPlayLevel: PIE: World Init took: (0.001135s)
+[2022.04.28-10.58.36:158][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020590s)
+[2022.04.28-10.58.36:158][ 60]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.58.36:163][ 60]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.58.36
+[2022.04.28-10.58.36:164][ 60]LogWorld: Bringing up level for play took: 0.003459
+[2022.04.28-10.58.36:166][ 60]LogLoad: Took 0.086076 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-10.58.39:872][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.58.39:914][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-10.58.39:964][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.58.40:004][283]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.04.28-10.58.41:198][325]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-10.59.51:805][215]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-10.59.52:498][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-10.59.52:554][232]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_Restart7993427B4D0157F5FE4F309BEF371802.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-10.59.55:647][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-10.59.59:423][514]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-10.59.59:455][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-10.59.59:455][514]PIE: New page: PIE session: MainLevel (28 kwi 2022, 14:59:59)
+[2022.04.28-10.59.59:455][514]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-10.59.59:474][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018919s)
+[2022.04.28-10.59.59:475][514]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-10.59.59:475][514]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2022.04.28-10.59.59:475][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020340s)
+[2022.04.28-10.59.59:548][514]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-10.59.59:582][514]LogInit: FAudioDevice initialized.
+[2022.04.28-10.59.59:617][514]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-10.59.59:622][514]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-12.59.59
+[2022.04.28-10.59.59:623][514]LogWorld: Bringing up level for play took: 0.003454
+[2022.04.28-10.59.59:637][514]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,806
+[2022.04.28-11.00.03:619][751]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.00.03:619][751]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.00.03:672][751]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.00.03:691][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018939s)
+[2022.04.28-11.00.03:692][751]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.00.03:692][751]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2022.04.28-11.00.03:692][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020438s)
+[2022.04.28-11.00.03:692][751]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.00.03:697][751]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.00.03
+[2022.04.28-11.00.03:697][751]LogWorld: Bringing up level for play took: 0.003158
+[2022.04.28-11.00.03:699][751]LogLoad: Took 0.081241 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.00.05:557][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.00.05:602][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-11.00.05:654][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.00.05:692][863]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.04.28-11.00.07:023][909]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-11.00.10:419][ 72]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-11.00.10:918][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-11.00.10:966][ 79]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_Restart04C919DF476D0B0F15C336B09B21802B.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-11.00.12:173][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.00.12:959][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.00.13:342][204]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-11.00.13:375][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-11.00.13:376][204]PIE: New page: PIE session: MainLevel (28 kwi 2022, 15:00:13)
+[2022.04.28-11.00.13:376][204]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.00.13:394][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018680s)
+[2022.04.28-11.00.13:395][204]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.00.13:396][204]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2022.04.28-11.00.13:396][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020065s)
+[2022.04.28-11.00.13:460][204]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-11.00.13:493][204]LogInit: FAudioDevice initialized.
+[2022.04.28-11.00.13:534][204]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.00.13:539][204]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.00.13
+[2022.04.28-11.00.13:540][204]LogWorld: Bringing up level for play took: 0.003635
+[2022.04.28-11.00.13:555][204]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,724
+[2022.04.28-11.00.17:231][422]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.00.17:232][422]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.00.17:292][422]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.00.17:311][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018875s)
+[2022.04.28-11.00.17:312][422]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.00.17:312][422]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2022.04.28-11.00.17:312][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020313s)
+[2022.04.28-11.00.17:312][422]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.00.17:317][422]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.00.17
+[2022.04.28-11.00.17:317][422]LogWorld: Bringing up level for play took: 0.003199
+[2022.04.28-11.00.17:319][422]LogLoad: Took 0.088388 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.00.18:313][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.00.18:361][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-11.00.18:419][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.00.18:459][482]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.04.28-11.00.19:595][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-11.02.28:017][178]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-11.02.28:037][178]LogBlueprint: Error: [Compiler BP_Restart] This blueprint (self) is not a PlayerCameraManager, therefore ' Target ' must have a connection.
+[2022.04.28-11.02.28:322][178]LogBlueprint: Warning: [Compiler BP_Restart] [1189,11] Compile of BP_Restart failed. 1 Fatal Issue(s) 0 Warning(s) [in 305 ms] (/Game/Blueprints/BP_Restart.BP_Restart)
+[2022.04.28-11.02.28:714][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-11.02.28:759][194]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_Restart05C0910D47BBA6685518758E60A4D35D.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-11.02.29:260][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.02.51:867][328]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-11.02.56:390][532]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-11.02.57:055][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-11.02.57:100][548]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_Restart2A29A9D4409EA1ABE7FF0990DCCDBD54.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-11.02.58:509][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.02.59:212][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.02.59:310][666]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-11.02.59:342][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-11.02.59:342][666]PIE: New page: PIE session: MainLevel (28 kwi 2022, 15:02:59)
+[2022.04.28-11.02.59:342][666]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.02.59:360][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018808s)
+[2022.04.28-11.02.59:361][666]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.02.59:361][666]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2022.04.28-11.02.59:361][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020287s)
+[2022.04.28-11.02.59:432][666]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-11.02.59:466][666]LogInit: FAudioDevice initialized.
+[2022.04.28-11.02.59:502][666]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.02.59:507][666]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.02.59
+[2022.04.28-11.02.59:508][666]LogWorld: Bringing up level for play took: 0.003416
+[2022.04.28-11.02.59:523][666]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,692
+[2022.04.28-11.03.03:905][927]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.03.03:906][927]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.03.03:963][927]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.03.03:982][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018601s)
+[2022.04.28-11.03.03:982][927]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.03.03:982][927]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2022.04.28-11.03.03:982][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020048s)
+[2022.04.28-11.03.03:982][927]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.03.03:987][927]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.03.03
+[2022.04.28-11.03.03:988][927]LogWorld: Bringing up level for play took: 0.003572
+[2022.04.28-11.03.03:990][927]LogLoad: Took 0.084476 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.03.05:312][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.03.05:364][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-11.03.05:435][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.03.05:478][  7]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.04.28-11.03.06:953][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-11.05.44:399][909]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-11.05.45:105][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-11.05.45:156][928]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_Restart7DBB6BBC401DBDE6B9DB9DB55796D00E.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-11.05.46:008][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.05.46:838][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.05.46:921][ 22]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-11.05.46:953][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-11.05.46:953][ 22]PIE: New page: PIE session: MainLevel (28 kwi 2022, 15:05:46)
+[2022.04.28-11.05.46:953][ 22]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.05.46:973][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019889s)
+[2022.04.28-11.05.46:974][ 22]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.05.46:975][ 22]LogPlayLevel: PIE: World Init took: (0.001396s)
+[2022.04.28-11.05.46:975][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.021563s)
+[2022.04.28-11.05.47:042][ 22]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-11.05.47:076][ 22]LogInit: FAudioDevice initialized.
+[2022.04.28-11.05.47:115][ 22]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.05.47:121][ 22]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.05.47
+[2022.04.28-11.05.47:122][ 22]LogWorld: Bringing up level for play took: 0.003927
+[2022.04.28-11.05.47:137][ 22]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,305
+[2022.04.28-11.05.51:531][284]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.05.51:531][284]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.05.51:588][284]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.05.51:607][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018637s)
+[2022.04.28-11.05.51:608][284]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.05.51:608][284]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2022.04.28-11.05.51:608][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020112s)
+[2022.04.28-11.05.51:608][284]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.05.51:613][284]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.05.51
+[2022.04.28-11.05.51:613][284]LogWorld: Bringing up level for play took: 0.003201
+[2022.04.28-11.05.51:615][284]LogLoad: Took 0.085091 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.05.52:770][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.05.52:818][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-11.05.52:880][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.05.52:922][354]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.04.28-11.05.54:083][391]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-11.06.42:393][955]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-11.06.42:427][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-11.06.42:427][955]PIE: New page: PIE session: MainLevel (28 kwi 2022, 15:06:42)
+[2022.04.28-11.06.42:427][955]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.06.42:447][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019239s)
+[2022.04.28-11.06.42:448][955]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.06.42:449][955]LogPlayLevel: PIE: World Init took: (0.001812s)
+[2022.04.28-11.06.42:449][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.021465s)
+[2022.04.28-11.06.42:516][955]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-11.06.42:552][955]LogInit: FAudioDevice initialized.
+[2022.04.28-11.06.42:602][955]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.06.42:609][955]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.06.42
+[2022.04.28-11.06.42:609][955]LogWorld: Bringing up level for play took: 0.005432
+[2022.04.28-11.06.42:625][955]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,207
+[2022.04.28-11.06.43:694][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.06.48:128][265]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.06.48:128][265]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.06.48:180][265]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.06.48:199][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018529s)
+[2022.04.28-11.06.48:200][265]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.06.48:200][265]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2022.04.28-11.06.48:200][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.019980s)
+[2022.04.28-11.06.48:201][265]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.06.48:205][265]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.06.48
+[2022.04.28-11.06.48:206][265]LogWorld: Bringing up level for play took: 0.003715
+[2022.04.28-11.06.48:208][265]LogLoad: Took 0.080151 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.06.49:765][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.06.49:809][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-11.06.49:884][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.06.49:924][359]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.04.28-11.06.51:169][398]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-11.06.59:976][885]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-11.07.00:011][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-11.07.00:012][885]PIE: New page: PIE session: MainLevel (28 kwi 2022, 15:07:00)
+[2022.04.28-11.07.00:012][885]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.07.00:032][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019452s)
+[2022.04.28-11.07.00:032][885]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.07.00:033][885]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2022.04.28-11.07.00:033][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020886s)
+[2022.04.28-11.07.00:101][885]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-11.07.00:134][885]LogInit: FAudioDevice initialized.
+[2022.04.28-11.07.00:168][885]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.07.00:173][885]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.07.00
+[2022.04.28-11.07.00:173][885]LogWorld: Bringing up level for play took: 0.003311
+[2022.04.28-11.07.00:187][885]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,643
+[2022.04.28-11.07.11:841][484]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.07.11:842][484]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.07.11:903][484]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.07.11:922][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018827s)
+[2022.04.28-11.07.11:923][484]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.07.11:924][484]LogPlayLevel: PIE: World Init took: (0.001210s)
+[2022.04.28-11.07.11:924][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020356s)
+[2022.04.28-11.07.11:924][484]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.07.11:929][484]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.07.11
+[2022.04.28-11.07.11:929][484]LogWorld: Bringing up level for play took: 0.003783
+[2022.04.28-11.07.11:931][484]LogLoad: Took 0.089854 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.07.14:673][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.07.14:720][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-11.07.14:781][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.07.14:818][628]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.04.28-11.07.17:107][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.07.23:755][ 28]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-11.07.23:787][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-11.07.23:788][ 28]PIE: New page: PIE session: MainLevel (28 kwi 2022, 15:07:23)
+[2022.04.28-11.07.23:788][ 28]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.07.23:808][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019965s)
+[2022.04.28-11.07.23:809][ 28]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.07.23:809][ 28]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2022.04.28-11.07.23:809][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.021367s)
+[2022.04.28-11.07.23:878][ 28]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-11.07.23:919][ 28]LogInit: FAudioDevice initialized.
+[2022.04.28-11.07.23:959][ 28]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.07.23:965][ 28]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.07.23
+[2022.04.28-11.07.23:965][ 28]LogWorld: Bringing up level for play took: 0.004161
+[2022.04.28-11.07.23:983][ 28]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 1,151
+[2022.04.28-11.07.28:254][265]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.07.28:258][265]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.07.28:319][265]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.07.28:338][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018538s)
+[2022.04.28-11.07.28:339][265]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.07.28:339][265]LogPlayLevel: PIE: World Init took: (0.001178s)
+[2022.04.28-11.07.28:339][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020032s)
+[2022.04.28-11.07.28:340][265]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.07.28:344][265]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.07.28
+[2022.04.28-11.07.28:345][265]LogWorld: Bringing up level for play took: 0.003180
+[2022.04.28-11.07.28:347][265]LogLoad: Took 0.088962 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.07.29:799][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.07.29:844][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-11.07.29:897][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.07.29:946][350]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.04.28-11.07.33:224][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.07.59:705][797]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-11.08.00:268][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-11.08.00:311][807]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_Restart21E319FA46D77503EB3046A5CE32DCCB.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-11.08.01:078][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.08.07:942][164]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-11.08.07:992][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-11.08.07:992][164]PIE: New page: PIE session: MainLevel (28 kwi 2022, 15:08:07)
+[2022.04.28-11.08.07:992][164]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.08.08:015][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022564s)
+[2022.04.28-11.08.08:016][164]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.08.08:016][164]LogPlayLevel: PIE: World Init took: (0.001379s)
+[2022.04.28-11.08.08:017][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.024299s)
+[2022.04.28-11.08.08:090][164]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-11.08.08:123][164]LogInit: FAudioDevice initialized.
+[2022.04.28-11.08.08:163][164]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.08.08:168][164]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.08.08
+[2022.04.28-11.08.08:169][164]LogWorld: Bringing up level for play took: 0.003377
+[2022.04.28-11.08.08:184][164]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,647
+[2022.04.28-11.08.12:803][425]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.08.12:805][425]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.08.12:862][425]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.08.12:882][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019308s)
+[2022.04.28-11.08.12:883][425]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.08.12:883][425]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2022.04.28-11.08.12:883][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020793s)
+[2022.04.28-11.08.12:883][425]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.08.12:887][425]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.08.12
+[2022.04.28-11.08.12:887][425]LogWorld: Bringing up level for play took: 0.003343
+[2022.04.28-11.08.12:889][425]LogLoad: Took 0.085454 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.08.18:603][749]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_GetCurrentLevelName', from offset 17
+[2022.04.28-11.08.18:603][749]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/BP_Restart.BP_Restart_C:ExecuteUbergraph_BP_Restart
+
+[2022.04.28-11.08.18:609][749]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-11.08.36:774][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-11.08.36:817][749]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_RestartDED775C043EF95AE51F574A6C69202A3.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-11.08.40:743][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.08.40:790][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-11.08.40:862][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.08.40:903][750]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.04.28-11.08.44:261][892]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/MainLevel_Auto2AB0A7F1742004C8A481630B15A8E0F5D.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/Autosaves/Game/Levels/MainLevel_Auto2.umap'
+[2022.04.28-11.08.44:275][892]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.298
+[2022.04.28-11.08.44:275][892]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.298
+[2022.04.28-11.08.44:281][892]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Restart] ([1] browsable assets)...
+[2022.04.28-11.08.44:281][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Restart]
+[2022.04.28-11.08.44:323][892]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_Restart_Auto2CD5D97AA4A0A593C9004CBB7FF770A15.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/Autosaves/Game/Blueprints/BP_Restart_Auto2.uasset'
+[2022.04.28-11.08.44:326][892]LogFileHelpers: Auto-saving content packages took 0.047
+[2022.04.28-11.08.45:564][957]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-11.08.45:619][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-11.08.45:619][957]PIE: New page: PIE session: MainLevel (28 kwi 2022, 15:08:45)
+[2022.04.28-11.08.45:619][957]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.08.45:640][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020839s)
+[2022.04.28-11.08.45:641][957]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.08.45:641][957]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2022.04.28-11.08.45:642][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.022293s)
+[2022.04.28-11.08.45:711][957]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-11.08.45:743][957]LogInit: FAudioDevice initialized.
+[2022.04.28-11.08.45:793][957]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.08.45:799][957]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.08.45
+[2022.04.28-11.08.45:799][957]LogWorld: Bringing up level for play took: 0.004877
+[2022.04.28-11.08.45:815][957]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,983
+[2022.04.28-11.08.54:073][425]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.08.54:076][425]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.08.54:139][425]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.08.54:158][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018980s)
+[2022.04.28-11.08.54:159][425]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.08.54:159][425]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2022.04.28-11.08.54:159][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020407s)
+[2022.04.28-11.08.54:159][425]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.08.54:164][425]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.08.54
+[2022.04.28-11.08.54:165][425]LogWorld: Bringing up level for play took: 0.003215
+[2022.04.28-11.08.54:167][425]LogLoad: Took 0.090939 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.08.58:776][693]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_OpenLevel', from offset 130
+[2022.04.28-11.08.58:776][693]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/BP_Restart.BP_Restart_C:ExecuteUbergraph_BP_Restart
+
+[2022.04.28-11.08.58:782][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-11.09.07:381][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.09.07:436][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-11.09.07:493][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.09.07:532][694]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.04.28-11.09.11:692][889]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-11.09.11:727][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-11.09.11:727][889]PIE: New page: PIE session: MainLevel (28 kwi 2022, 15:09:11)
+[2022.04.28-11.09.11:728][889]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.09.11:748][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020489s)
+[2022.04.28-11.09.11:749][889]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.09.11:750][889]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2022.04.28-11.09.11:750][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.022045s)
+[2022.04.28-11.09.11:817][889]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-11.09.11:850][889]LogInit: FAudioDevice initialized.
+[2022.04.28-11.09.11:898][889]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.09.11:905][889]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.09.11
+[2022.04.28-11.09.11:906][889]LogWorld: Bringing up level for play took: 0.005652
+[2022.04.28-11.09.11:920][889]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 1,089
+[2022.04.28-11.09.13:005][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.09.17:820][224]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.09.17:822][224]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.09.17:882][224]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.09.17:905][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022203s)
+[2022.04.28-11.09.17:906][224]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.09.17:906][224]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2022.04.28-11.09.17:907][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.023658s)
+[2022.04.28-11.09.17:907][224]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.09.17:911][224]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.09.17
+[2022.04.28-11.09.17:912][224]LogWorld: Bringing up level for play took: 0.003512
+[2022.04.28-11.09.17:915][224]LogLoad: Took 0.091776 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.09.22:092][463]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_StartCameraFade', from offset 225
+[2022.04.28-11.09.22:092][463]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/BP_Restart.BP_Restart_C:ExecuteUbergraph_BP_Restart
+
+[2022.04.28-11.09.22:098][463]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-11.09.32:954][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.09.33:004][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-11.09.33:063][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.09.33:101][464]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.04.28-11.10.34:767][660]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-11.10.35:511][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-11.10.35:558][677]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_Restart04C1FDDA4B388B18EDBE2E851BF447BC.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-11.10.36:892][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.10.37:735][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.10.37:834][804]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-11.10.37:867][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-11.10.37:867][804]PIE: New page: PIE session: MainLevel (28 kwi 2022, 15:10:37)
+[2022.04.28-11.10.37:868][804]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.10.37:887][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019508s)
+[2022.04.28-11.10.37:888][804]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.10.37:889][804]LogPlayLevel: PIE: World Init took: (0.001287s)
+[2022.04.28-11.10.37:889][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.021050s)
+[2022.04.28-11.10.37:961][804]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-11.10.37:996][804]LogInit: FAudioDevice initialized.
+[2022.04.28-11.10.38:032][804]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.10.38:037][804]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.10.38
+[2022.04.28-11.10.38:038][804]LogWorld: Bringing up level for play took: 0.003364
+[2022.04.28-11.10.38:051][804]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,779
+[2022.04.28-11.10.43:106][106]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.10.43:107][106]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.10.43:166][106]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.10.43:185][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019088s)
+[2022.04.28-11.10.43:186][106]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.10.43:186][106]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2022.04.28-11.10.43:186][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020531s)
+[2022.04.28-11.10.43:186][106]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.10.43:191][106]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.10.43
+[2022.04.28-11.10.43:191][106]LogWorld: Bringing up level for play took: 0.003474
+[2022.04.28-11.10.43:194][106]LogLoad: Took 0.086771 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.10.48:288][411]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.10.48:289][411]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.10.48:341][411]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.10.48:359][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018915s)
+[2022.04.28-11.10.48:360][411]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.10.48:360][411]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2022.04.28-11.10.48:360][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020323s)
+[2022.04.28-11.10.48:360][411]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.10.48:364][411]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.10.48
+[2022.04.28-11.10.48:366][411]LogWorld: Bringing up level for play took: 0.003133
+[2022.04.28-11.10.48:367][411]LogLoad: Took 0.078793 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.10.49:172][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.10.49:213][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-11.10.49:271][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.10.49:308][460]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.04.28-11.10.53:480][561]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-11.12.03:017][971]LogRenderer: Reallocating scene render targets to support 924x540 Format 10 NumSamples 1 (Frame:1).
+[2022.04.28-11.12.05:134][ 81]LogSlate: Window 'BP_Restart' being destroyed
+[2022.04.28-11.12.05:147][ 81]LogSlate: Window 'BP_Restart' being destroyed
+[2022.04.28-11.12.05:816][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.12.07:859][218]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2022.04.28-11.12.11:051][355]LogSlate: Window 'BP_GameMode' being destroyed
+[2022.04.28-11.12.11:065][355]LogSlate: Window 'BP_GameMode' being destroyed
+[2022.04.28-11.12.14:000][514]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn
+[2022.04.28-11.12.21:193][847]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2022.04.28-11.12.21:215][847]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2022.04.28-11.12.22:340][896]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Crystal.BP_Crystal
+[2022.04.28-11.12.28:253][186]LogSlate: Window 'BP_Crystal' being destroyed
+[2022.04.28-11.12.28:270][186]LogSlate: Window 'BP_Crystal' being destroyed
+[2022.04.28-11.12.29:853][268]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Restart.BP_Restart
+[2022.04.28-11.13.09:651][911]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-11.13.10:334][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-11.13.10:391][926]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_RestartCD2960E24A656E37A74F05B3198519F5.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-11.13.12:435][ 33]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-11.13.12:479][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-11.13.12:479][ 33]PIE: New page: PIE session: MainLevel (28 kwi 2022, 15:13:12)
+[2022.04.28-11.13.12:479][ 33]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.13.12:505][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026013s)
+[2022.04.28-11.13.12:506][ 33]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.13.12:507][ 33]LogPlayLevel: PIE: World Init took: (0.001944s)
+[2022.04.28-11.13.12:507][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.028337s)
+[2022.04.28-11.13.12:595][ 33]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-11.13.12:634][ 33]LogInit: FAudioDevice initialized.
+[2022.04.28-11.13.12:672][ 33]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.13.12:677][ 33]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.13.12
+[2022.04.28-11.13.12:677][ 33]LogWorld: Bringing up level for play took: 0.003489
+[2022.04.28-11.13.12:693][ 33]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,139
+[2022.04.28-11.13.18:020][347]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.13.18:021][347]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.13.18:071][347]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.13.18:092][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020163s)
+[2022.04.28-11.13.18:093][347]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.13.18:093][347]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2022.04.28-11.13.18:093][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.021701s)
+[2022.04.28-11.13.18:093][347]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.13.18:097][347]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.13.18
+[2022.04.28-11.13.18:098][347]LogWorld: Bringing up level for play took: 0.003087
+[2022.04.28-11.13.18:100][347]LogLoad: Took 0.079069 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.13.23:775][687]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.13.23:775][687]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.13.23:832][687]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.13.23:851][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018476s)
+[2022.04.28-11.13.23:852][687]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.13.23:852][687]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2022.04.28-11.13.23:852][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.019928s)
+[2022.04.28-11.13.23:852][687]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.13.23:856][687]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.13.23
+[2022.04.28-11.13.23:857][687]LogWorld: Bringing up level for play took: 0.003050
+[2022.04.28-11.13.23:859][687]LogLoad: Took 0.084593 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.13.24:868][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.13.24:915][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-11.13.24:990][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.13.25:029][748]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.04.28-11.13.29:166][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-11.13.34:770][149]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2022.04.28-11.13.34:770][149]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2022.04.28-11.13.34:770][149]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2022.04.28-11.13.34:770][149]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2022.04.28-11.13.34:770][149]LogUObjectGlobals: Warning: Failed to find object 'Blueprint Engine/Tutorial/Installation/InstallingVisualStudioTutorial.InstallingVisualStudioTutorial'
+[2022.04.28-11.13.40:956][470]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-11.13.41:567][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-11.13.41:612][481]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_RestartC665915A404E0AB23DD1F6BA8E0D450C.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-11.13.42:961][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.13.43:939][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.13.44:021][605]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-11.13.44:066][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-11.13.44:066][605]PIE: New page: PIE session: MainLevel (28 kwi 2022, 15:13:44)
+[2022.04.28-11.13.44:067][605]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.13.44:090][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023360s)
+[2022.04.28-11.13.44:092][605]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.13.44:092][605]LogPlayLevel: PIE: World Init took: (0.001963s)
+[2022.04.28-11.13.44:092][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.025693s)
+[2022.04.28-11.13.44:169][605]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-11.13.44:201][605]LogInit: FAudioDevice initialized.
+[2022.04.28-11.13.44:234][605]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.13.44:239][605]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.13.44
+[2022.04.28-11.13.44:239][605]LogWorld: Bringing up level for play took: 0.003304
+[2022.04.28-11.13.44:255][605]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,576
+[2022.04.28-11.13.48:471][856]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.13.48:471][856]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.13.48:530][856]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.13.48:549][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018563s)
+[2022.04.28-11.13.48:550][856]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.13.48:550][856]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2022.04.28-11.13.48:550][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020045s)
+[2022.04.28-11.13.48:550][856]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.13.48:555][856]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.13.48
+[2022.04.28-11.13.48:555][856]LogWorld: Bringing up level for play took: 0.003169
+[2022.04.28-11.13.48:558][856]LogLoad: Took 0.086097 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.13.52:649][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.13.52:697][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-11.13.52:759][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.13.52:799][102]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.04.28-11.13.55:744][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.13.56:280][209]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-11.13.56:308][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-11.13.56:308][209]PIE: New page: PIE session: MainLevel (28 kwi 2022, 15:13:56)
+[2022.04.28-11.13.56:308][209]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.13.56:329][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020363s)
+[2022.04.28-11.13.56:330][209]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.13.56:330][209]LogPlayLevel: PIE: World Init took: (0.001564s)
+[2022.04.28-11.13.56:330][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.022230s)
+[2022.04.28-11.13.56:405][209]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-11.13.56:440][209]LogInit: FAudioDevice initialized.
+[2022.04.28-11.13.56:480][209]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.13.56:490][209]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.13.56
+[2022.04.28-11.13.56:491][209]LogWorld: Bringing up level for play took: 0.007638
+[2022.04.28-11.13.56:509][209]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,323
+[2022.04.28-11.14.00:673][457]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.14.00:673][457]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.14.00:728][457]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.14.00:747][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018522s)
+[2022.04.28-11.14.00:748][457]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.14.00:748][457]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2022.04.28-11.14.00:748][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020000s)
+[2022.04.28-11.14.00:748][457]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.14.00:753][457]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.14.00
+[2022.04.28-11.14.00:753][457]LogWorld: Bringing up level for play took: 0.003372
+[2022.04.28-11.14.00:755][457]LogLoad: Took 0.081723 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.14.01:598][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.14.01:641][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-11.14.01:704][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.14.01:744][508]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.04.28-11.14.02:834][544]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-11.14.10:510][932]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-11.14.11:235][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-11.14.11:278][949]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_Restart5B7AB0774DD7C90AC98429AAFE603E2E.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-11.14.12:614][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.14.13:397][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.14.13:480][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-11.14.13:513][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-11.14.13:513][ 64]PIE: New page: PIE session: MainLevel (28 kwi 2022, 15:14:13)
+[2022.04.28-11.14.13:513][ 64]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.14.13:533][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019293s)
+[2022.04.28-11.14.13:534][ 64]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.14.13:534][ 64]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2022.04.28-11.14.13:534][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020774s)
+[2022.04.28-11.14.13:607][ 64]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-11.14.13:641][ 64]LogInit: FAudioDevice initialized.
+[2022.04.28-11.14.13:677][ 64]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.14.13:683][ 64]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.14.13
+[2022.04.28-11.14.13:683][ 64]LogWorld: Bringing up level for play took: 0.003392
+[2022.04.28-11.14.13:697][ 64]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,866
+[2022.04.28-11.14.17:827][310]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.14.17:827][310]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.14.17:889][310]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.14.17:908][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018353s)
+[2022.04.28-11.14.17:909][310]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.14.17:909][310]LogPlayLevel: PIE: World Init took: (0.001116s)
+[2022.04.28-11.14.17:909][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.019770s)
+[2022.04.28-11.14.17:909][310]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.14.17:913][310]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.14.17
+[2022.04.28-11.14.17:914][310]LogWorld: Bringing up level for play took: 0.003563
+[2022.04.28-11.14.17:917][310]LogLoad: Took 0.089137 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.14.21:898][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.14.21:943][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-11.14.22:005][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.14.22:044][549]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.04.28-11.14.22:723][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.14.22:806][593]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-11.14.22:834][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-11.14.22:834][593]PIE: New page: PIE session: MainLevel (28 kwi 2022, 15:14:22)
+[2022.04.28-11.14.22:834][593]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.14.22:853][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019034s)
+[2022.04.28-11.14.22:854][593]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.14.22:855][593]LogPlayLevel: PIE: World Init took: (0.001215s)
+[2022.04.28-11.14.22:855][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020505s)
+[2022.04.28-11.14.22:920][593]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-11.14.22:952][593]LogInit: FAudioDevice initialized.
+[2022.04.28-11.14.22:991][593]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.14.22:995][593]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.14.22
+[2022.04.28-11.14.22:996][593]LogWorld: Bringing up level for play took: 0.003510
+[2022.04.28-11.14.23:011][593]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,18
+[2022.04.28-11.14.27:998][890]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.14.27:998][890]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.14.28:050][890]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.14.28:069][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018540s)
+[2022.04.28-11.14.28:070][890]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.14.28:070][890]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2022.04.28-11.14.28:070][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.019977s)
+[2022.04.28-11.14.28:070][890]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.14.28:075][890]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.14.28
+[2022.04.28-11.14.28:075][890]LogWorld: Bringing up level for play took: 0.003222
+[2022.04.28-11.14.28:077][890]LogLoad: Took 0.079141 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.14.29:636][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.14.29:695][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-11.14.29:779][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.14.29:808][984]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.04.28-11.14.30:970][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-11.14.40:164][484]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-11.14.40:835][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-11.14.40:881][499]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_RestartF991389B45CB86652073F8B4957675D1.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-11.14.41:670][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.14.42:425][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.14.42:492][583]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-11.14.42:525][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-11.14.42:525][583]PIE: New page: PIE session: MainLevel (28 kwi 2022, 15:14:42)
+[2022.04.28-11.14.42:525][583]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.14.42:543][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018647s)
+[2022.04.28-11.14.42:544][583]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.14.42:544][583]LogPlayLevel: PIE: World Init took: (0.001217s)
+[2022.04.28-11.14.42:545][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020111s)
+[2022.04.28-11.14.42:615][583]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.04.28-11.14.42:647][583]LogInit: FAudioDevice initialized.
+[2022.04.28-11.14.42:688][583]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.14.42:693][583]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.14.42
+[2022.04.28-11.14.42:693][583]LogWorld: Bringing up level for play took: 0.003470
+[2022.04.28-11.14.42:709][583]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,123
+[2022.04.28-11.14.47:107][845]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.14.47:108][845]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.14.47:171][845]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.14.47:195][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023697s)
+[2022.04.28-11.14.47:196][845]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.14.47:197][845]LogPlayLevel: PIE: World Init took: (0.001610s)
+[2022.04.28-11.14.47:197][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.025713s)
+[2022.04.28-11.14.47:197][845]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.14.47:201][845]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.14.47
+[2022.04.28-11.14.47:202][845]LogWorld: Bringing up level for play took: 0.003447
+[2022.04.28-11.14.47:205][845]LogLoad: Took 0.096884 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.14.57:137][440]LogNet: Browse: /Game/Levels/MainLevel
+[2022.04.28-11.14.57:137][440]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2022.04.28-11.14.57:193][440]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.04.28-11.14.57:215][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021752s)
+[2022.04.28-11.14.57:216][440]LogAIModule: Creating AISystem for world MainLevel
+[2022.04.28-11.14.57:217][440]LogPlayLevel: PIE: World Init took: (0.001420s)
+[2022.04.28-11.14.57:217][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.023533s)
+[2022.04.28-11.14.57:217][440]LogLoad: Game class is 'BP_GameMode_C'
+[2022.04.28-11.14.57:223][440]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.04.28-13.14.57
+[2022.04.28-11.14.57:223][440]LogWorld: Bringing up level for play took: 0.004725
+[2022.04.28-11.14.57:226][440]LogLoad: Took 0.090043 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2022.04.28-11.14.59:247][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.14.59:293][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-11.14.59:365][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-11.14.59:404][561]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.04.28-11.15.05:371][871]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.28-11.15.44:700][764]BlueprintLog: New page: Compile BP_Restart
+[2022.04.28-11.15.45:445][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2022.04.28-11.15.45:492][770]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/BP_Restart0D9E63C840A1F1CDF663A08234E00255.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Blueprints/BP_Restart.uasset'
+[2022.04.28-11.15.46:930][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.15.47:035][814]LogSlate: Window 'BP_Restart' being destroyed
+[2022.04.28-11.15.47:049][814]LogSlate: Window 'BP_Restart' being destroyed
+[2022.04.28-11.15.48:490][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.28-11.15.48:923][897]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Saved/MainLevelCB081E664745AE800E25508DDE97DE92.tmp' to '../../../../../../Users/Admin/Desktop/REPOBallRunner_ROK2_2021_2022/Ball_Runner/Content/Levels/MainLevel.umap'
+[2022.04.28-11.15.50:712][987]LogSlate: Window 'Ball_Runner - Unreal Editor' being destroyed
+[2022.04.28-11.15.51:027][988]Cmd: QUIT_EDITOR
+[2022.04.28-11.15.51:460][988]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.04.28-11.15.51:483][988]LogExit: Preparing to exit.
+[2022.04.28-11.15.51:840][988]LogExit: Editor shut down
+[2022.04.28-11.15.51:840][988]LogExit: Transaction tracking system shut down
+[2022.04.28-11.15.52:856][988]LogExit: Object subsystem successfully closed.
+[2022.04.28-11.15.52:909][988]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.04.28-11.15.52:921][988]LogD3D11RHI: Shutdown
+[2022.04.28-11.15.52:922][988]LogD3D11RHI: CleanupD3DDevice
+[2022.04.28-11.15.52:957][988]LogD3D11RHI: ~FD3D11DynamicRHI
+[2022.04.28-11.15.53:262][988]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2022.04.28-11.15.53:262][988]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2022.04.28-11.15.53:262][988]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2022.04.28-11.15.53:262][988]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2022.04.28-11.15.53:262][988]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2022.04.28-11.15.53:263][988]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2022.04.28-11.15.53:264][988]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2022.04.28-11.15.53:264][988]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2022.04.28-11.15.53:264][988]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2022.04.28-11.15.53:266][988]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2022.04.28-11.15.53:266][988]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2022.04.28-11.15.53:266][988]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2022.04.28-11.15.53:267][988]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2022.04.28-11.15.53:267][988]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2022.04.28-11.15.53:267][988]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2022.04.28-11.15.53:267][988]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2022.04.28-11.15.53:267][988]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2022.04.28-11.15.53:268][988]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2022.04.28-11.15.53:268][988]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2022.04.28-11.15.53:268][988]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2022.04.28-11.15.53:268][988]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2022.04.28-11.15.53:268][988]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2022.04.28-11.15.53:268][988]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2022.04.28-11.15.53:269][988]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2022.04.28-11.15.53:269][988]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2022.04.28-11.15.53:269][988]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2022.04.28-11.15.53:270][988]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2022.04.28-11.15.53:270][988]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2022.04.28-11.15.53:270][988]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2022.04.28-11.15.53:271][988]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2022.04.28-11.15.53:271][988]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2022.04.28-11.15.53:271][988]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2022.04.28-11.15.53:272][988]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2022.04.28-11.15.53:272][988]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2022.04.28-11.15.53:272][988]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2022.04.28-11.15.53:272][988]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2022.04.28-11.15.53:274][988]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2022.04.28-11.15.53:279][988]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2022.04.28-11.15.53:280][988]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2022.04.28-11.15.53:280][988]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2022.04.28-11.15.53:281][988]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2022.04.28-11.15.53:281][988]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2022.04.28-11.15.53:281][988]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2022.04.28-11.15.53:282][988]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2022.04.28-11.15.53:283][988]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2022.04.28-11.15.53:284][988]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2022.04.28-11.15.53:284][988]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2022.04.28-11.15.53:284][988]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2022.04.28-11.15.53:286][988]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2022.04.28-11.15.53:288][988]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2022.04.28-11.15.53:288][988]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2022.04.28-11.15.53:290][988]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2022.04.28-11.15.53:291][988]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2022.04.28-11.15.53:292][988]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2022.04.28-11.15.53:293][988]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2022.04.28-11.15.54:132][988]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2022.04.28-11.15.54:132][988]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2022.04.28-11.15.54:133][988]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2022.04.28-11.15.54:133][988]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2022.04.28-11.15.54:133][988]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2022.04.28-11.15.54:134][988]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2022.04.28-11.15.54:134][988]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2022.04.28-11.15.54:137][988]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2022.04.28-11.15.54:138][988]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2022.04.28-11.15.54:139][988]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2022.04.28-11.15.54:139][988]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2022.04.28-11.15.54:139][988]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2022.04.28-11.15.54:140][988]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2022.04.28-11.15.54:141][988]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2022.04.28-11.15.54:141][988]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2022.04.28-11.15.54:160][988]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2022.04.28-11.15.54:165][988]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2022.04.28-11.15.54:169][988]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2022.04.28-11.15.54:169][988]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2022.04.28-11.15.54:176][988]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2022.04.28-11.15.54:177][988]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2022.04.28-11.15.54:178][988]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2022.04.28-11.15.54:224][988]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2022.04.28-11.15.54:224][988]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2022.04.28-11.15.54:224][988]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2022.04.28-11.15.54:224][988]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2022.04.28-11.15.54:225][988]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2022.04.28-11.15.54:225][988]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2022.04.28-11.15.54:226][988]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2022.04.28-11.15.54:226][988]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2022.04.28-11.15.54:226][988]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2022.04.28-11.15.54:226][988]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2022.04.28-11.15.54:322][988]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2022.04.28-11.15.54:322][988]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2022.04.28-11.15.54:322][988]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2022.04.28-11.15.54:322][988]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2022.04.28-11.15.54:322][988]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2022.04.28-11.15.54:323][988]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2022.04.28-11.15.54:323][988]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2022.04.28-11.15.54:323][988]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2022.04.28-11.15.54:323][988]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2022.04.28-11.15.54:323][988]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2022.04.28-11.15.54:324][988]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2022.04.28-11.15.54:324][988]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2022.04.28-11.15.54:324][988]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2022.04.28-11.15.54:324][988]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2022.04.28-11.15.54:324][988]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2022.04.28-11.15.54:324][988]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2022.04.28-11.15.54:324][988]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2022.04.28-11.15.54:324][988]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2022.04.28-11.15.54:324][988]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2022.04.28-11.15.54:325][988]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2022.04.28-11.15.54:325][988]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2022.04.28-11.15.54:325][988]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2022.04.28-11.15.54:483][988]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2022.04.28-11.15.54:483][988]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2022.04.28-11.15.54:483][988]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2022.04.28-11.15.54:483][988]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2022.04.28-11.15.54:484][988]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2022.04.28-11.15.54:488][988]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2022.04.28-11.15.54:489][988]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2022.04.28-11.15.54:489][988]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2022.04.28-11.15.54:489][988]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2022.04.28-11.15.54:489][988]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2022.04.28-11.15.54:489][988]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2022.04.28-11.15.54:493][988]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2022.04.28-11.15.54:493][988]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2022.04.28-11.15.54:493][988]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2022.04.28-11.15.54:493][988]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2022.04.28-11.15.54:493][988]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2022.04.28-11.15.54:493][988]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2022.04.28-11.15.54:493][988]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2022.04.28-11.15.54:544][988]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2022.04.28-11.15.54:544][988]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2022.04.28-11.15.54:549][988]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2022.04.28-11.15.54:549][988]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2022.04.28-11.15.54:549][988]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2022.04.28-11.15.54:550][988]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2022.04.28-11.15.54:550][988]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2022.04.28-11.15.54:550][988]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2022.04.28-11.15.54:550][988]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2022.04.28-11.15.54:550][988]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2022.04.28-11.15.54:550][988]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2022.04.28-11.15.54:550][988]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2022.04.28-11.15.54:552][988]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2022.04.28-11.15.54:552][988]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2022.04.28-11.15.54:553][988]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2022.04.28-11.15.54:553][988]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2022.04.28-11.15.54:553][988]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2022.04.28-11.15.54:554][988]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2022.04.28-11.15.54:554][988]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2022.04.28-11.15.54:554][988]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2022.04.28-11.15.54:554][988]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2022.04.28-11.15.54:554][988]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2022.04.28-11.15.54:554][988]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2022.04.28-11.15.54:554][988]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2022.04.28-11.15.54:554][988]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2022.04.28-11.15.54:555][988]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2022.04.28-11.15.54:555][988]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2022.04.28-11.15.54:555][988]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2022.04.28-11.15.54:555][988]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2022.04.28-11.15.54:555][988]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2022.04.28-11.15.54:555][988]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2022.04.28-11.15.54:556][988]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2022.04.28-11.15.54:556][988]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2022.04.28-11.15.54:556][988]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2022.04.28-11.15.54:556][988]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2022.04.28-11.15.54:557][988]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2022.04.28-11.15.54:557][988]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2022.04.28-11.15.54:557][988]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2022.04.28-11.15.54:557][988]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2022.04.28-11.15.54:557][988]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2022.04.28-11.15.54:557][988]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2022.04.28-11.15.54:658][988]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2022.04.28-11.15.54:758][988]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2022.04.28-11.15.54:758][988]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2022.04.28-11.15.54:758][988]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2022.04.28-11.15.54:758][988]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2022.04.28-11.15.54:758][988]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2022.04.28-11.15.54:758][988]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2022.04.28-11.15.54:759][988]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2022.04.28-11.15.54:760][988]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2022.04.28-11.15.54:761][988]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2022.04.28-11.15.54:761][988]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2022.04.28-11.15.54:761][988]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2022.04.28-11.15.54:762][988]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2022.04.28-11.15.54:766][988]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2022.04.28-11.15.54:767][988]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2022.04.28-11.15.54:767][988]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2022.04.28-11.15.54:767][988]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2022.04.28-11.15.54:768][988]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2022.04.28-11.15.54:768][988]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2022.04.28-11.15.54:772][988]LogModuleManager: Shutting down and abandoning module Media (243)
+[2022.04.28-11.15.54:779][988]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2022.04.28-11.15.54:779][988]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2022.04.28-11.15.54:779][988]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2022.04.28-11.15.54:779][988]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2022.04.28-11.15.54:779][988]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2022.04.28-11.15.54:779][988]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2022.04.28-11.15.54:780][988]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2022.04.28-11.15.54:780][988]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2022.04.28-11.15.54:780][988]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2022.04.28-11.15.54:780][988]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2022.04.28-11.15.54:780][988]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2022.04.28-11.15.54:780][988]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2022.04.28-11.15.54:780][988]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2022.04.28-11.15.54:780][988]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2022.04.28-11.15.54:780][988]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2022.04.28-11.15.54:780][988]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2022.04.28-11.15.54:781][988]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2022.04.28-11.15.54:781][988]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2022.04.28-11.15.54:781][988]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2022.04.28-11.15.54:781][988]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2022.04.28-11.15.54:786][988]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2022.04.28-11.15.54:786][988]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2022.04.28-11.15.54:786][988]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2022.04.28-11.15.54:786][988]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2022.04.28-11.15.54:786][988]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2022.04.28-11.15.54:786][988]LogModuleManager: Shutting down and abandoning module Core (188)
+[2022.04.28-11.15.54:786][988]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2022.04.28-11.15.54:786][988]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2022.04.28-11.15.54:787][988]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2022.04.28-11.15.54:787][988]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2022.04.28-11.15.54:787][988]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2022.04.28-11.15.54:787][988]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2022.04.28-11.15.54:787][988]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2022.04.28-11.15.54:787][988]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2022.04.28-11.15.54:787][988]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2022.04.28-11.15.54:787][988]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2022.04.28-11.15.54:787][988]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2022.04.28-11.15.54:787][988]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2022.04.28-11.15.54:811][988]LogDerivedDataCache: Shutdown
+[2022.04.28-11.15.54:811][988]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2022.04.28-11.15.54:811][988]LogXGEController: Cleaning working directory: C:/Users/Admin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.04.28-11.15.54:812][988]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2022.04.28-11.15.54:812][988]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2022.04.28-11.15.54:812][988]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2022.04.28-11.15.54:812][988]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2022.04.28-11.15.54:812][988]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2022.04.28-11.15.54:813][988]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2022.04.28-11.15.54:813][988]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2022.04.28-11.15.54:813][988]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2022.04.28-11.15.54:813][988]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2022.04.28-11.15.54:813][988]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2022.04.28-11.15.54:813][988]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2022.04.28-11.15.54:813][988]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2022.04.28-11.15.54:813][988]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2022.04.28-11.15.54:813][988]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2022.04.28-11.15.54:813][988]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2022.04.28-11.15.54:813][988]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2022.04.28-11.15.54:814][988]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2022.04.28-11.15.54:814][988]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2022.04.28-11.15.54:814][988]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2022.04.28-11.15.54:814][988]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2022.04.28-11.15.54:814][988]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2022.04.28-11.15.54:814][988]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2022.04.28-11.15.54:816][988]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2022.04.28-11.15.54:816][988]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2022.04.28-11.15.54:818][988]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2022.04.28-11.15.54:818][988]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2022.04.28-11.15.54:837][988]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2022.04.28-11.15.54:837][988]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2022.04.28-11.15.54:837][988]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2022.04.28-11.15.54:837][988]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2022.04.28-11.15.54:837][988]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2022.04.28-11.15.54:837][988]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2022.04.28-11.15.54:838][988]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2022.04.28-11.15.54:838][988]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2022.04.28-11.15.54:838][988]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2022.04.28-11.15.54:838][988]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2022.04.28-11.15.54:838][988]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2022.04.28-11.15.54:838][988]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2022.04.28-11.15.54:838][988]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2022.04.28-11.15.54:838][988]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2022.04.28-11.15.54:839][988]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2022.04.28-11.15.54:839][988]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2022.04.28-11.15.54:839][988]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2022.04.28-11.15.54:839][988]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2022.04.28-11.15.54:841][988]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2022.04.28-11.15.54:841][988]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2022.04.28-11.15.54:879][988]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2022.04.28-11.15.54:879][988]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.04.28-11.15.54:879][988]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B52D7CF6C-4030-D511-E8BD-07BCE45ACFF2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=e5897c7a43892caab94921811b6a6795%7C533b440b3c554a7ebaeba0de7e09a67d%7C5c5ca2ef-1d0d-4add-a3e2-8916b480fbb1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2022.04.28-11.15.54:908][988]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2022.04.28-11.15.54:926][988]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2022.04.28-11.15.54:926][988]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2022.04.28-11.15.54:927][988]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2022.04.28-11.15.54:927][988]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2022.04.28-11.15.54:927][988]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2022.04.28-11.15.54:927][988]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2022.04.28-11.15.54:927][988]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2022.04.28-11.15.54:927][988]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2022.04.28-11.15.54:927][988]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2022.04.28-11.15.54:928][988]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.04.28-11.15.54:928][988]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2022.04.28-11.15.54:928][988]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2022.04.28-11.15.54:928][988]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.04.28-11.15.54:928][988]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.04.28-11.15.54:928][988]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2022.04.28-11.15.54:929][988]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2022.04.28-11.15.54:929][988]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2022.04.28-11.15.54:929][988]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2022.04.28-11.15.54:931][988]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2022.04.28-11.15.54:931][988]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2022.04.28-11.15.54:931][988]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2022.04.28-11.15.54:931][988]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2022.04.28-11.15.54:931][988]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2022.04.28-11.15.54:932][988]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2022.04.28-11.15.54:932][988]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2022.04.28-11.15.54:932][988]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2022.04.28-11.15.54:932][988]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2022.04.28-11.15.54:932][988]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2022.04.28-11.15.54:932][988]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2022.04.28-11.15.54:961][988]LogExit: Exiting.
+[2022.04.28-11.15.54:984][988]Log file closed, 04/28/22 13:15:54
